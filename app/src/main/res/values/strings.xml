@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">githubuser</string>
+    <string name="err_msgss_enter_first_name">gabisa edit akun</string>
+    <string name="err_msgs_enter_first_name">gabisa keluar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
